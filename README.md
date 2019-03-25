@@ -1,2 +1,2 @@
 # Bootstrap-4
-Repositorio de ejemplos y descripción de como aprender, entender y usar Bootstrap 4
+Para empezar a entender como manejar bootstrap 4, como comenzar a crear contenidos responsives considero comenzar a enteder un poco el concepto "Mobile Firts" el cual consiste princioalmente en entender, que en la actualidad las persona acceden a todo desde su telefono movil o tablet en ves de una PC o laptop, y por esto el enfoque Mobile Firts se centra en pensar primero en como se mostrara en dispositivos pequeños (moviles).
